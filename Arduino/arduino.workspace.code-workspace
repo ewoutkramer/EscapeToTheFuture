@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"openhab.host": "localhost",
+		"arduino.defaultBaudRate": 9600
+	}
+}

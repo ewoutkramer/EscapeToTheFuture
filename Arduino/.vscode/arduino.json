@@ -1,0 +1,8 @@
+{
+    "port": "COM7",
+    "board": "arduino:avr:mega",
+    "sketch": "SumPuzzle\\SumPuzzle.ino",
+    "programmer": "AVR ISP",
+    "configuration": "cpu=atmega2560",
+    "output": "build"
+}
